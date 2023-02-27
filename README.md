@@ -18,5 +18,5 @@ The companion app is not built for the public it's used by company employees and
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./companion_app_ss1.png)
 
